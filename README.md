@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sanjeevani.lakade25@gmail.com**
 
-- ⚡ Fun fact **I love watching Anime & reading mangas!**
+- ⚡ Fun fact **I love watching Anime & reading Mangas!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
