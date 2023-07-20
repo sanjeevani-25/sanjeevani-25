@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">👋 Hi, I'm Sanjeevani</h1>
 <h3 align="center">Pre-final Year CS undergraduate at Indian Institute of Information Technology Vadodara.</h3>
-<h4 align="center">Upcoming Frontend developer | UI/UX Enthusiast</h4>
+<h4 align="center">Frontend developer | UI/UX Enthusiast</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevani-25&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevani-25" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevani-25" alt="sanjeevani-25" /></a> </p> -->
