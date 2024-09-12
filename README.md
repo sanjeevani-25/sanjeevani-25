@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=sanjeevani-25&label=Profile+views&color=blue&abbreviated=true)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevani-25" alt="sanjeevani-25" /></a> </p> -->
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Everythingggg**
 
-- 💬 Ask me about **UI/UX design**
+- 💬 Ask me about **UI/UX design** , **Django** & **Reactjs**
 
 - 📫 How to reach me **sanjeevani.lakade25@gmail.com**
 
